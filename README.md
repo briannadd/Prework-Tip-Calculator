@@ -15,4 +15,4 @@ The following required functionallity is complete
 
 Here's a walkthrough of implemented user stories
 
-![ Alt text](Prework gif.gif) / ! [](Prework gif .gif)
+![](Prework gif.gif)
