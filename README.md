@@ -15,4 +15,4 @@ The following required functionallity is complete
 
 Here's a walkthrough of implemented user stories
 
-![](Prework gif.gif)
+![](Prework-gif.gif)
